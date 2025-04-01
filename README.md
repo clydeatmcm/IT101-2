@@ -3,9 +3,9 @@ Computer Programming Concepts 2
 
 ### Course Materials
 
-* ![Java Programming, 10th Edition by J. Farrell (2023)](./book1.png)
-* ![Programming with Java, K. Mcmullen, et.al. (2023)](./book2.png)
-* ![Introduction to Programming in Java, R. Sedgewick (2022)](./book3.png)
+* <img src="./book1.png" alt="drawing" width="150"/> Farrell, J. (2023). Java Programming, 10th Edition
+* <img src="./book2.png" alt="drawing" width="150"/> Mcmullen, K., Smith, A., & Jones, L. (2023). Programming with Java
+* <img src="./book3.png" alt="drawing" width="150"/> Sedgewick, R. (2022). Introduction to Programming in Java
 * [HackerRank - Java Challenges](https://www.hackerrank.com/challenges/welcome-to-java)
 * [W3Schools](https://www.w3schools.com/java/)
 
