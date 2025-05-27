@@ -1,6 +1,9 @@
 # Guided Hands-on Lab: Building a Task Tracker in Java Swing
 
-> **Before You Begin:** If you're having issues running Java on a computer due to administrative access restrictions, refer to this guide: [Running Java Without Admin Access](https://github.com/clydeatmcm/IT101-2/blob/main/M1/RunningJavaWithoutAdminAccess.md).
+> **Before You Begin:**
+
+If you have issues running Java due to admin access restrictions on your computer, follow this guide to run Java without admin privileges:  
+➡️ [Running Java Without Admin Access](https://github.com/clydeatmcm/IT101-2/blob/main/M1/RunningJavaWithoutAdminAccess.md)
 
 ---
 
