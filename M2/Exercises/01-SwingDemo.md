@@ -14,7 +14,7 @@ Make sure you have:
 
 ---
 
-## Overview
+## 📚 Overview
 
 In this lab, you will build a desktop GUI application using **Java Swing**. The app features:
 
@@ -26,7 +26,7 @@ In this lab, you will build a desktop GUI application using **Java Swing**. The 
 
 ---
 
-## Step-by-step Guided Explanation and Code Walkthrough
+## 📄 Step-by-step Guided Explanation and Code Walkthrough
 
 ### Step 1: Importing Necessary Libraries
 
