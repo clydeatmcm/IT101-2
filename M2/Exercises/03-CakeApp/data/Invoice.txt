@@ -1,0 +1,8 @@
+INV001##2024-05-15##John Doe##john.doe@email.com##09123456789##C001##Chocolate Truffle Cake##1##850.00##Paid##Birthday celebration
+INV002##2024-05-16##Maria Santos##maria.santos@email.com##09234567890##C002##Vanilla Bean Cheesecake##2##1300.00##Pending##Wedding anniversary
+INV003##2024-05-17##Robert Chen##robert.chen@email.com##09345678901##C003##Red Velvet Supreme##1##750.00##Paid##Office party
+INV004##2024-05-18##Lisa Park##lisa.park@email.com##09456789012##C005##Strawberry Shortcake##1##600.00##Paid##Family gathering
+INV005##2024-05-19##David Kim##david.kim@email.com##09567890123##C008##Tiramisu Cake##1##900.00##Pending##Date night
+INV006##2024-05-20##Anna Rodriguez##anna.rod@email.com##09678901234##C009##Rainbow Layer Cake##1##950.00##Paid##Child's birthday
+INV007##2024-05-21##Michael Brown##m.brown@email.com##09789012345##C006##Black Forest Cake##1##800.00##Paid##Anniversary
+INV008##2024-05-22##Sarah Wilson##s.wilson@email.com##09890123456##C007##Carrot Cake Delight##2##1400.00##Pending##Office event
