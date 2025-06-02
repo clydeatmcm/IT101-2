@@ -1,0 +1,3 @@
+admin##password123##CJ Smith##cj@cakeboutique.com##2024-01-15
+manager##manager456##Sarah Johnson##sarah@cakeboutique.com##2024-02-01
+staff##staff789##Mike Wilson##mike@cakeboutique.com##2024-03-10
