@@ -1,0 +1,8 @@
+S001##2024-05-15##INV001##C001##Chocolate Truffle Cake##850.00##1##850.00##John Doe##Cash
+S002##2024-05-17##INV003##C003##Red Velvet Supreme##750.00##1##750.00##Robert Chen##Credit Card
+S003##2024-05-18##INV004##C005##Strawberry Shortcake##600.00##1##600.00##Lisa Park##Cash
+S004##2024-05-20##INV006##C009##Rainbow Layer Cake##950.00##1##950.00##Anna Rodriguez##Credit Card
+S005##2024-05-21##INV007##C006##Black Forest Cake##800.00##1##800.00##Michael Brown##Cash
+S006##2024-05-14##WALK001##C002##Vanilla Bean Cheesecake##650.00##1##650.00##Walk-in Customer##Cash
+S007##2024-05-16##WALK002##C004##Lemon Drizzle Cake##550.00##2##1100.00##Walk-in Customer##Credit Card
+S008##2024-05-19##WALK003##C010##Chocolate Fudge Brownie##450.00##3##1350.00##Walk-in Customer##Cash
