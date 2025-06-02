@@ -1,0 +1,10 @@
+C001##Chocolate Truffle Cake##A rich and decadent chocolate cake with truffle filling##850.00##Available##Chocolate
+C002##Vanilla Bean Cheesecake##Creamy vanilla cheesecake with fresh berry topping##650.00##Available##Cheesecake
+C003##Red Velvet Supreme##Classic red velvet with cream cheese frosting##750.00##Available##Red Velvet
+C004##Lemon Drizzle Cake##Moist lemon cake with tangy lemon glaze##550.00##Available##Citrus
+C005##Strawberry Shortcake##Light sponge with fresh strawberries and cream##600.00##Limited##Fruit
+C006##Black Forest Cake##Chocolate sponge with cherries and whipped cream##800.00##Available##Chocolate
+C007##Carrot Cake Delight##Spiced carrot cake with cream cheese frosting##700.00##Available##Spice
+C008##Tiramisu Cake##Coffee-flavored Italian dessert cake##900.00##Limited##Coffee
+C009##Rainbow Layer Cake##Colorful layered cake perfect for celebrations##950.00##Available##Rainbow
+C010##Chocolate Fudge Brownie##Dense chocolate brownie cake with fudge##450.00##Available##Chocolate
