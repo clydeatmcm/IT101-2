@@ -21,21 +21,21 @@ public class App {
         FileWriter writer = null;
 
         try {
-            writer = new FileWriter("Names.txt", true); // true to append to file
-            System.out.println("Enter names to save to Names.txt (type 'exit' to finish):");
+            writer = new FileWriter("Names.txt"); // Overwrite mode
+            System.out.println("Enter data in format id##name##age (type 'exit' to finish):");
 
             while (true) {
-                System.out.print("Name: ");
-                String name = scanner.nextLine();
+                System.out.print("Input: ");
+                String input = scanner.nextLine();
 
-                if ("exit".equalsIgnoreCase(name)) {
+                if ("exit".equalsIgnoreCase(input)) {
                     break;
                 }
 
-                writer.write(name + System.lineSeparator());
+                writer.write(input + System.lineSeparator());
             }
 
-            System.out.println("Names saved successfully.");
+            System.out.println("Data written successfully to Names.txt.");
         } catch (IOException e) {
             System.out.println("An error occurred: " + e.getMessage());
         } finally {
@@ -46,6 +46,11 @@ public class App {
                 scanner.close();
             } catch (IOException e) {
                 System.out.println("Error closing file: " + e.getMessage());
+            }
+        }
+    }
+}
+
             }
         }
     }
